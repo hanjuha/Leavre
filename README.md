@@ -1,4 +1,21 @@
 <h1> 국내 여행을 위한 플래너 사이트(Leavre) - 화면 소개 </h1> 
+<h3> 🔨 개발 환경 </h3>
+OS : Windows10
+<br>
+DB : Oracle 11g Express Edition
+<br>
+WAS : Tomcat 8.5
+<br>
+Tool : Eclipse, Bootstrap, Sql Developer
+<br>
+API : 한국관광공사 Tour API, 국문 관광 정보 서비스, 카카오 지도 API
+<br>
+Lang : Java, Servlet, JSP, JSTL, HTML, CSS, JavaScript, Ajax, SQL
+<br>
+Framework : Spring, MyBatis
+<br>
+<br>
+<br>
 
 * 메인페이지
   * 플래너 계획 날짜를 선택하여 숙소 및 관광 상품 검색 가능
